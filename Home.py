@@ -32,7 +32,7 @@ components.html(
             font-size: 2rem;
         }
     </style>
-    <p id="effect">Brain Tumor Check</p>
+    <p id="effect">Tumor Snap</p>
     """,
     height=69,
 )
