@@ -41,9 +41,9 @@ components.html(
 
 def page_layout():
    
+    st.write("Welcome to a groundbreaking application that leverages the power of MRI images to detect and segment brain tumor with precision")
     st.write("Brain Tumor Check is an app developed by Students Of SVEC that takes an image as input and predicts the type of tumor, using CNN and MRIs of the patients. This Web app uses advanced algorithms to diagnose various tumors and classify them into brain")
     st.write("Developed By SVEC")
-    st.write("Welcome to a groundbreaking application that leverages the power of MRI images to detect and segment brain tumor with precision")
     st.markdown("## Benefits:")
     st.write("- Fast and accurate diagnosis of diseases")
     st.write("- Non-invasive and painless diagnosis using MRI")
