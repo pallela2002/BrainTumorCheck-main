@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 # Set page title
 st.set_page_config(
-    page_title="Brain Tumor Detection and Classification",
+    page_title="TumorSnap",
     initial_sidebar_state="expanded",
 )
 st.write('<style>div.row-widget.stMarkdown { font-size: 24px; }</style>', unsafe_allow_html=True)
