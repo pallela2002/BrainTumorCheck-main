@@ -87,7 +87,8 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>You are diagnosed with Meningioma at the skull base which is parasagittal region and sphenoid wing</h1>
+            <h1>You are diagnosed with Meningioma</h1>
+            <h1>LOCATION: Sphenoid Wing or Skull Base</h1>
             """
         )
         st.write("Surgery is the most common type of treatment, but it can be difficult if the tumor is near a delicate part of the brain or spinal cord. Radiation therapy is also commonly used. The blood-brain barrier, which normally protects the brain and spinal cord from damaging chemicals, also keeps out many types of chemotherapy")
