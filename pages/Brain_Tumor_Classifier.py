@@ -104,7 +104,8 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>You are diagnosed with Pituitary at Base of the Brain-behind the nose</h1>
+            <h1>You are diagnosed with Pituitary</h1>
+            <h1>LOCATION:Base of the brain-behind the nose</h1>
             """
         )
         st.write('Treatment of pituitary carcinomas is palliative, to relieve symptoms and improve the quality of life. Treatment may include the following: Surgery (transsphenoidal surgery or craniotomy) to remove the cancer, with or without radiation therapy. Drug therapy to stop the tumor from making hormones')
