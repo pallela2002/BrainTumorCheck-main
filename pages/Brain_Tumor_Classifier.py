@@ -50,7 +50,7 @@ if x:
             <style>
             h1{
                 
-                background: -webkit-linear-gradient(0.25turn,#01CCF7, #8BF5F5);
+                background: -webkit-linear-gradient(0.25turn,#01CCF7, #178FE6);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
@@ -64,7 +64,7 @@ if x:
             """
             <style>
             h1{
-                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #F70000);
+                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #178FE6);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
@@ -81,7 +81,7 @@ if x:
             """
             <style>
             h1{
-                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #F70000);
+                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #178FE6);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
@@ -98,7 +98,7 @@ if x:
             """
             <style>
             h1{
-                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #F70000);
+                background: -webkit-linear-gradient(0.25turn,#FF4C4B, #178FE6);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
