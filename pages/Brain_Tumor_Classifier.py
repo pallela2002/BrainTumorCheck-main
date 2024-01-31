@@ -77,7 +77,7 @@ if x:
             }
             </style>
             <h1>You are diagnosed with Glioma</h1>
-             <h1>LOCATION:Brain Stem </h1>
+             <h2>LOCATION:Brain Stem </h2>
             """
         )
         st.write("Don't worry! For glioma treatment, radiation therapy is often used after surgery. The radiation kills any glioma cells that might remain after surgery. Radiation is often combined with chemotherapy. Radiation therapy might be the first glioma treatment if surgery isn't an option.")
