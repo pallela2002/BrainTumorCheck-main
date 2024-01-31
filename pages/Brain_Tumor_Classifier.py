@@ -69,6 +69,12 @@ if x:
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
             }
+            h2{
+                background: -webkit-linear-gradient(0.25turn,#08C7A7, #178FE6);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                font-family: "Source Sans Pro", sans-serif;
+            }
             </style>
             <h1>You are diagnosed with Glioma</h1>
              <h1>LOCATION:Brain Stem </h1>
