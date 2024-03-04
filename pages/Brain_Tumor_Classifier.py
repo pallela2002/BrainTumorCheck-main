@@ -87,7 +87,7 @@ if x:
             """
             <style>
             h1{
-                background: -webkit-linear-gradient(0.25turn,#FF0000);
+                background: -webkit-linear-gradient(0.25turn,#FF0000,#178FE6);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
