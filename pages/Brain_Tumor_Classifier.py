@@ -104,13 +104,13 @@ if x:
             """
             <style>
             h1{
-                background: -webkit-linear-gradient(0.25turn,#9400D3, #9400D3);
+                background: -webkit-linear-gradient(0.25turn,#800080, #800080);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
             }
             h2{
-                background: -webkit-linear-gradient(0.25turn,#e6178f, #e6178f);
+                background: -webkit-linear-gradient(0.25turn,#FF69B4, #FF69B4);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 font-family: "Source Sans Pro", sans-serif;
