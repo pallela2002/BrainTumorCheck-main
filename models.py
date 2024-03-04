@@ -47,7 +47,7 @@ model = keras.Sequential([
     layers.MaxPooling2D((2, 2)),
     layers.Flatten(),
     layers.Dense(128, activation='relu'),
-    layers.Dense(1, activation='sigmoid')
+    layers.Dense(4, activation='softmax')
 ])
 
 # Compile the model
